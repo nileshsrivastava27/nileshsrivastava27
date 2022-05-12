@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills
-- 🥅 2022 Goals: Learn more about ReactJS
+- 🥅 2022 Goals: Learn more about ReactJS and Web3
 - ⚡ Fun fact: I love to code and play keyboard!!
 
 
@@ -37,5 +37,10 @@
 <br/>
 
 
-
+<p align="center">
+    <a href="https://github.com/nileshsrivastava27/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nilesh Srivastava's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamshankar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+     
 
