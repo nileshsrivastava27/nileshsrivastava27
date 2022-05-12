@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @nileshsrivastava27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Nilesh Srivastava - aka [nileshsrivastava27]👋 
 
-<!---
-nileshsrivastava27/nileshsrivastava27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nileshsrivastava27)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nilesh</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+
+## I'm a Student and a Developer!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate in open-source and willing to learn new skills
+- 🥅 2022 Goals: Learn more about ReactJS
+- ⚡ Fun fact: I love to code and play keyboard!!
