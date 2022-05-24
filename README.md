@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills
-- 🥅 2022 Goals: Learn more about ReactJS and Web3
+- 🥅 2022 Goals: Learn more about ReactJS, Flutter.
 - ⚡ Fun fact: I love to code and play keyboard!!
 
 
