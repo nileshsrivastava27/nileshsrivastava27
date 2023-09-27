@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills
-- 🥅 2023 Goals: Learn more about ReactJS, Flutter.
+- 🥅 2023 Goals: Learn more about NextJS.
 - ⚡ Fun fact: I love to code and play keyboard!!
 - 📫 Reach me here :- nilesh.sri02@gmail.com
 
