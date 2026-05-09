@@ -3,13 +3,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Nilesh Srivastava - [nileshsrivastava27]</h1>
-<h3 align="center">I'm a passionate Full Stack & Flutter Developer from India.</h3>
+<h3 align="center">I'm a passionate Engineer from India.</h3>
 
-## I'm a Student and a Developer!!
+## I'm a Tech Enthusiast and a Data Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills
-- 🥅 2023 Goals: Learn more about NextJS.
+- 🥅 2026 Goals: Learn more about Data Engineering.
 - ⚡ Fun fact: I love to code and play keyboard!!
 - 📫 Reach me here :- nilesh.sri02@gmail.com
 
