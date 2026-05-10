@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills
 - 🥅 2026 Goals: Learn more about Data Engineering.
-- ⚡ Fun fact: I love to code and play keyboard!!
+- ⚡ Fun fact: I love to code and listen country music!!
 - 📫 Reach me here :- nilesh.sri02@gmail.com
 
 
